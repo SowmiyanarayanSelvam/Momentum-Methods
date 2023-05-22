@@ -1,6 +1,6 @@
 # MomentumMethods
 
-Tried to implement:
+Implemented:
 
 > Vanilla gradient descent with constant alpha
 
